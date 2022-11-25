@@ -24,7 +24,7 @@ public class PasarPoReferencia2 {
 
         System.out.println("persona.nombre = " + persona.leerNombre());
 
-        System.out.println("Finaliza el metodo main con los datos de la persona"); 
+        System.out.println("Finaliza el metodo main con los datos de la persona");
     }
     
     public static void test(Persona persona) {
