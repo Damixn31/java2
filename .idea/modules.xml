@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/java2.iml" filepath="$PROJECT_DIR$/java2.iml" />
       <module fileurl="file://$PROJECT_DIR$/laClaseMath/laClaseMath.iml" filepath="$PROJECT_DIR$/laClaseMath/laClaseMath.iml" />
       <module fileurl="file://$PROJECT_DIR$/laClaseSystem/laClaseSystem.iml" filepath="$PROJECT_DIR$/laClaseSystem/laClaseSystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lineaDeComando/lineaDeComando.iml" filepath="$PROJECT_DIR$/lineaDeComando/lineaDeComando.iml" />
     </modules>
   </component>
 </project>
